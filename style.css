@@ -44,7 +44,7 @@ a:hover{
     
 }
 .top-area p{
-    color: black;
+    color: gray;
     
 }
 .top-area a{
@@ -82,7 +82,7 @@ a:hover{
     
 }
 .middle-area p{
-    color:rgb(52, 28, 160);
+    color: gray;
     
 }
 .middle-area a{
@@ -94,14 +94,21 @@ a:hover{
 .project-area{
     width: 100%;
     height: 700px;
+    background: aliceblue;
+   
    
 }
 .project-box{
     width:30.33%;
     float: left;
-    padding-top: 50px;
-    margin-left: 29px;
-    box-shadow: white;
+    background: white;
+    width: 350px;
+    height: 350px;
+    padding:14px;
+    margin-left: 80px;
+    margin-top: 100px;
+    box-shadow: 10px 20px 40px gray;
+    border-radius: 20px;
 
 }
 .project-box img{
@@ -110,10 +117,49 @@ a:hover{
 .project-area p{
     text-align: left;
     font-weight: 700;
-    color: black;
+    color: gray;
     
 }
 .project-area h1{
     text-align: center;
+    font-size: 30px;
+    padding-top: 100px;
+    color: black;
+    
 }
-/*  */
+/* Inquiry */
+.inquiry-area{
+    width: 100%;
+    height: 300px;
+    
+    margin-top: 45px;
+    
+}
+.work-inquiry{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 60%;
+    height: 40%;
+    padding: 65px;
+    margin-left: 250px;
+    
+
+}
+.inquiry-text{
+    width: 45%;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+
+    margin-left: 150px;
+    padding-bottom: 25%;
+}
+.chat-btn{
+    width: 25%;
+    float: right;
+    margin-right: 80px;
+    margin-bottom: 90px;
+    padding-bottom: 150px;
+}
+

@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    font-family: 'Redressed', cursive;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+}
+h4{
+    text-align: center;
+    font-size: 48px;
+}
+span {
+    color: turquoise;
+}
+.half-section {
+    width: 40%;
+    float: left;
+    margin-left: 5% ;
+    padding: 2%;
+}
+.half-section img {
+    width: 80%;
+}
+section{
+    height: 500px;
+    padding: 50px 0px 150px 0px;
+}
+.link-button {
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+}
+.project{
+    background: #F8F9FC;
+}
+.project-box{
+    width: 33.33%;
+    box-shadow: 10px 20px 40px gray;
+    border-radius: 10px;
+    height: 370px;
+    width: 374px;
+    float: left;
+    margin-left: 40px;
+    padding: 10px;
+    background: white;
+}
+.project-box img{
+    width: 100%;
+}
+.contact{
+    margin-top: 50px;
+}
+.work{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: auto;
+    width: 60%;
+    height: 40%;
+    padding: 10px;
+}
+.tittle{
+    width: 40%;
+    float: left;
+    padding-left: 40px;
+}
+.chat-button{
+    width: 40%;
+    float: right;
+    margin-top: 75px;
+}
+.gmail{
+    margin-top: 280px;
+    text-align: center;
+    height: 100px;
+    line-height: 0px;
+}
+.gmail img{
+    height: 36px;
+    width: 36.04px;
+}
+h5{
+    font-size: 40px;
+    color: white;
+}
+h6{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(65, 62, 62);
+}
+.gmail p{
+    font-size: 36px;
+    font-weight: 600;
+}

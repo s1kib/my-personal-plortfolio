@@ -36,8 +36,6 @@ a:hover{
     height: 500px;
     margin-top:50px;
     
-    
-  
 }
 .top-area h1{
     color: black;
@@ -167,7 +165,7 @@ a:hover{
  .footer-area{
      width: 100%;
      height: 200px;
-     
+     background-color: aliceblue;
      text-align: center;
  }
 .contact1{

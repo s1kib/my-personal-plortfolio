@@ -5,7 +5,7 @@
 .header{
     width:100%;
     height: 50px;
-    background-color: white;
+    background-color: black;
 }
 .header ul{
     width: auto;
@@ -19,7 +19,7 @@
 .header a{
     text-decoration: none;
     text-align: center;
-    color: black;
+    color: white;
     font-size: 1.2vw;
 }
 a:hover{
@@ -34,6 +34,7 @@ a:hover{
 .top-area{
     width: 100%;
     height: 500px;
+    margin-top:50px;
     
     
   
@@ -127,7 +128,7 @@ a:hover{
     color: black;
     
 }
-/* Inquiry */
+/* Inquiry Area*/
 .inquiry-area{
     width: 100%;
     height: 300px;
@@ -162,5 +163,29 @@ a:hover{
     margin-right:25px;
    
  }
-
+ /* Footer Area */
+ .footer-area{
+     width: 100%;
+     height: 200px;
+     
+     text-align: center;
+ }
+.contact1{
+    margin-top: 50px;
+}
+.contact1 h5{
+    color: gray;
+}
+.contact1 h2{
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+.contact2 img{
+    width: 100 auto;
+    margin: 15px 5px;
+}
+.footer{
+    margin-top: 25px;
+}
 
